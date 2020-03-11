@@ -1,2 +1,0 @@
-# htmlacon
-конспекты html academy
