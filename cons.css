@@ -13,15 +13,17 @@ h1 {
     text-align: center;
 }
 .row {
-    display: flex;
-    justify-content: space-between;
     width: 100%;
 }
 
 .col {
     border: 2px solid;
-    width: 300px;
-    height: 200px;
+    width: 200px;
+    height: 100px;
     background-color: rgb(206, 202, 226);
 }
-
+ .container {
+    display: flex;
+    justify-content: space-around;
+    width:  100%;
+} 
